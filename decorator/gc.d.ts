@@ -1,0 +1,3 @@
+declare class classG {
+    constructor();
+}
